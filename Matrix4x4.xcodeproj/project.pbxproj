@@ -15,6 +15,7 @@
 		43D27F72254F1DF700DAD12E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 43D27F70254F1DF700DAD12E /* LaunchScreen.storyboard */; };
 		43D27F7D254F1DF800DAD12E /* Matrix4x4Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43D27F7C254F1DF800DAD12E /* Matrix4x4Tests.swift */; };
 		43D27F88254F1DF800DAD12E /* Matrix4x4UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43D27F87254F1DF800DAD12E /* Matrix4x4UITests.swift */; };
+		43D27F99254F1E3200DAD12E /* Matrix4x4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43D27F98254F1E3200DAD12E /* Matrix4x4.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		43D27F83254F1DF800DAD12E /* Matrix4x4UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Matrix4x4UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		43D27F87254F1DF800DAD12E /* Matrix4x4UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Matrix4x4UITests.swift; sourceTree = "<group>"; };
 		43D27F89254F1DF800DAD12E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		43D27F98254F1E3200DAD12E /* Matrix4x4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Matrix4x4.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				43D27F6E254F1DF700DAD12E /* Assets.xcassets */,
 				43D27F70254F1DF700DAD12E /* LaunchScreen.storyboard */,
 				43D27F73254F1DF700DAD12E /* Info.plist */,
+				43D27F98254F1E3200DAD12E /* Matrix4x4.swift */,
 			);
 			path = Matrix4x4;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				43D27F6A254F1DF200DAD12E /* ViewController.swift in Sources */,
 				43D27F66254F1DF200DAD12E /* AppDelegate.swift in Sources */,
 				43D27F68254F1DF200DAD12E /* SceneDelegate.swift in Sources */,
+				43D27F99254F1E3200DAD12E /* Matrix4x4.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
